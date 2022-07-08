@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "onelongcyclelr"
-version = "0.1.1"
+version = "0.1.2"
 description = "An adaptation of pytorch OneCycleLR that doesn't crash when max steps is reached"
 authors = ["Andrea Boscolo Camiletto <abcamiletto@gmail.com>"]
 homepage = "https://github.com/abcamiletto/onelongcyclelr"
