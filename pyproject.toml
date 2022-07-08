@@ -11,7 +11,7 @@ include = [
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 torch = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
